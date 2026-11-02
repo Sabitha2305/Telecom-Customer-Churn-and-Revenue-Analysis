@@ -40,6 +40,10 @@ Key metrics include:
 - Average Monthly Charges
 - Average Tenure
 
+## Power BI Dashboard Preview
+
+![Telecom Customer Churn Dashboard](telecom-dashboard.png)
+
 ## Key Findings
 
 Based on the supplied dataset:

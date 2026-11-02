@@ -59,7 +59,7 @@ Key metrics:
 
 ### Dashboard Preview
 
-_Add your actual Power BI dashboard screenshot here after uploading it to the repository._
+[Telecom Customer Churn Dashboard](Telecom-dashboard.png)
 
 ## Key Findings
 
@@ -89,10 +89,10 @@ _Add your actual Power BI dashboard screenshot here after uploading it to the re
 
 ## Project Files
 
-- `SQL/` – MySQL scripts.
-- `Telecom_Customer_Churn.xlsx` – Excel dataset and analysis workbook.
-- `projecttelecom.pbix` – Power BI dashboard.
-- `telecom-dashboard.png` – Dashboard screenshot (add this file after taking a screenshot).
+- `SQL/` – MySQL scripts for data exploration and analysis.
+- `Telecom_Customer_Churn.xlsx` – Excel dataset and analysis.
+- `projecttelecom.pbix` – Interactive Power BI dashboard.
+- `telecom-dashboard.png` – Power BI dashboard screenshot.
 
 ## How to Use
 

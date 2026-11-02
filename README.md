@@ -42,7 +42,7 @@ Key metrics include:
 
 ## Power BI Dashboard Preview
 
-![Telecom Customer Churn Dashboard](telecom-dashboard.png)
+[Telecom Customer Churn Dashboard](Telecom-dashboard.png)
 
 ## Key Findings
 
